@@ -1,0 +1,22 @@
+{
+  "name": "mpg2kpl-js",
+  "version": "1.0.0",
+  "description": "MPG to KPL converter written with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morphatic/mpg2kpl-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morphatic/mpg2kpl-js/issues"
+  },
+  "homepage": "https://github.com/morphatic/mpg2kpl-js#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
